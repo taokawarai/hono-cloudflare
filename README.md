@@ -52,4 +52,8 @@ npm run build
 npm run preview
 
 npm run deploy
+// Create project
 ```
+
+- set Cloudflare Access
+![alt text](image/cloudflare-access.png)
